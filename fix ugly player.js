@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         remove ugly youtube player
+// @name         fix ugly player
 // @version      0.1
 // @description  cope sneed buck chuck
 // @author       Kyle
