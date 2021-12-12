@@ -4,6 +4,11 @@
 // @description  cope sneed buck chuck
 // @author       Kyle
 // @match        https://www.youtube.com/*
+// @compatible   chrome
+// @compatible   firefox
+// @compatible   opera
+// @compatible   safari
+// @compatible   edge
 // @icon         https://www.google.com/s2/favicons?domain=youtube.com
 // @downloadURL  https://github.com/kylesbowling2021/uglyplayer/raw/main/fix%20ugly%20player.js
 // @updateURL   https://github.com/kylesbowling2021/uglyplayer/raw/main/fix%20ugly%20player.js
